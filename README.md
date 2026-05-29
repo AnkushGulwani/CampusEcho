@@ -1,5 +1,10 @@
 # 🌟 CampusEcho
 
+Currently working on migrating its backend to springboot and some more major changes...........
+
+
+
+
 **CampusEcho** is a student confession platform built to empower open dialogue and emotional connection across campuses. Designed with classic **JSP/Servlets** and a modular **DAO architecture**, it offers a clean, scalable foundation for anonymous sharing, transparent moderation, and personalized user experiences.
 
 ---
